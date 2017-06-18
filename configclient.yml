@@ -1,0 +1,4 @@
+rs:
+  pscode:
+    value: This is Default from GIT
+    default: Some Value for all profiles from Git
