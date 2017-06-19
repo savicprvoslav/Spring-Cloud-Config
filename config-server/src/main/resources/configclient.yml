@@ -1,0 +1,5 @@
+rs:
+  pscode:
+    value: This is Default
+    default: Some Value for all profiles
+    default2: DEFAULT 2
